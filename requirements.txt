@@ -1,0 +1,6 @@
+confluent_kafka
+avro
+fastavro
+requests
+faker
+aws-msk-iam-sasl-signer-python
